@@ -9,9 +9,11 @@ packages = [{include = "stat_projects"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.0.2"
+matplotlib = "^3.7.1"
 
 [tool.poetry.group.dev.dependencies]
 notebook = "^6.5.4"
+jupyterthemes = "^0.20.0"
 
 [build-system]
 requires = ["poetry-core"]
