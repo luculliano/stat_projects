@@ -10,6 +10,9 @@ packages = [{include = "stat_projects"}]
 python = "^3.11"
 pandas = "^2.0.2"
 matplotlib = "^3.7.1"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
+lxml = "^4.9.2"
 
 [tool.poetry.group.dev.dependencies]
 notebook = "^6.5.4"
