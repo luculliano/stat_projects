@@ -1,2 +1,3 @@
 skillbox_course/
 __pycache__/
+.ipynb_checkpoints*
